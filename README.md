@@ -1,16 +1,13 @@
-### Hi there 👋
+### About me: 
 
-<!--
-**PrayRNGesus/PrayRNGesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **PrayRNGesus**, I am a developer who is fluent with the Java language (4+ years). 
 
-Here are some ideas to get you started:
+Some unique things about me:
+- 🔭 I have 4+ years of Java experience
+- 🌱 I mainly develop with the Spigot and JDA libraries
+- 👯 I am expereinced when it comes to working with private clients
+- 🤔 I have about 1 year of MongoDb experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to reach me:
+- 💬 You can contact me on discord **@Pray#0001**
+- 📫 You can contact me on telegram **@PrayRNGesus**
