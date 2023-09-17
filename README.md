@@ -9,4 +9,4 @@ Some unique things about me:
 - 🤔 I have about 3 years of MongoDb experience
 
 How to reach me:
-- 📫 Ypu can reach me at 760-798-6550 or nathanrenner1@gmail.com.
+- 📫 You can reach me at 760-798-6550 or nathanrenner1@gmail.com.
