@@ -9,4 +9,4 @@ Some unique things about me:
 - 🤔 I have about 3 years of MongoDb experience
 
 How to reach me:
-- 📫 You can contact me on telegram **@PrayRNGesus** for a full CV!
+- 📫 Ypu can reach me at 760-798-6550 or nathanrenner1@gmail.com.
