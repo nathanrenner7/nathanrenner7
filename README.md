@@ -8,4 +8,4 @@ Some unique things about me:
 - 🌱 I have 1+ years using React/Web Development
 
 How to reach me:
-- 📫 You can reach me at 760-798-6550 or nathanrenner1@gmail.com.
+- 📫 You can reach me at nathanrenner1@gmail.com.
