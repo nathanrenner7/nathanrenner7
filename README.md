@@ -1,6 +1,6 @@
 ### About me: 
 
-My name is **Nathan Renner**, I am a developer who is fluent with the Java language (6+ years). 
+My name is **Nathan Renner**, I am a developer who is fluent with the Java, Typescript, and Python languages. 
 
 Some unique things about me:
 - 🔭 I have 7 years of Java experience
